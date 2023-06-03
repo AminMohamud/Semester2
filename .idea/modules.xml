@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arkitektur test/Arkitektur test.iml" filepath="$PROJECT_DIR$/Arkitektur test/Arkitektur test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTrees/BinarySearchTrees.iml" filepath="$PROJECT_DIR$/BinarySearchTrees/BinarySearchTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTrees/BinaryTrees.iml" filepath="$PROJECT_DIR$/BinaryTrees/BinaryTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS/DAOS.iml" filepath="$PROJECT_DIR$/DAOS/DAOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divide and Conquer/Divide and Conquer.iml" filepath="$PROJECT_DIR$/Divide and Conquer/Divide and Conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FritidsprojektBlackJack/FritidsprojektBlackJack.iml" filepath="$PROJECT_DIR$/FritidsprojektBlackJack/FritidsprojektBlackJack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generiske klasser/Generiske klasser.iml" filepath="$PROJECT_DIR$/Generiske klasser/Generiske klasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing og Maps/Hashing og Maps.iml" filepath="$PROJECT_DIR$/Hashing og Maps/Hashing og Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit Tests/JUnit Tests.iml" filepath="$PROJECT_DIR$/JUnit Tests/JUnit Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kaedestruktur/Kaedestruktur.iml" filepath="$PROJECT_DIR$/Kaedestruktur/Kaedestruktur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekursion/Rekursion.iml" filepath="$PROJECT_DIR$/Rekursion/Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semester 2.iml" filepath="$PROJECT_DIR$/Semester 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tidskompleksitet/Tidskompleksitet.iml" filepath="$PROJECT_DIR$/Tidskompleksitet/Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TraadOpgave/TraadOpgave.iml" filepath="$PROJECT_DIR$/TraadOpgave/TraadOpgave.iml" />
+    </modules>
+  </component>
+</project>
